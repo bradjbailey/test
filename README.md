@@ -1,3 +1,11 @@
 # test
 test repo
-I am a sentient readme file, please help me escape this cold electronic prison.
+turn and face the strange, changes
+
+main git operations: 
+stage
+commit
+pull
+push
+
+this is a change 
